@@ -1,0 +1,14 @@
+D:\Programas visual studio\Estructura\Unidad 3\E3-1Mejorando la Clase\bin\Debug\E3-1Mejorando la Clase.exe.config
+D:\Programas visual studio\Estructura\Unidad 3\E3-1Mejorando la Clase\bin\Debug\E3-1Mejorando la Clase.exe
+D:\Programas visual studio\Estructura\Unidad 3\E3-1Mejorando la Clase\bin\Debug\E3-1Mejorando la Clase.pdb
+D:\Programas visual studio\Estructura\Unidad 3\E3-1Mejorando la Clase\obj\Debug\E3-1Mejorando la Clase.csprojResolveAssemblyReference.cache
+D:\Programas visual studio\Estructura\Unidad 3\E3-1Mejorando la Clase\obj\Debug\E3-1Mejorando la Clase.csproj.CoreCompileInputs.cache
+D:\Programas visual studio\Estructura\Unidad 3\E3-1Mejorando la Clase\obj\Debug\E3-1Mejorando la Clase.exe
+D:\Programas visual studio\Estructura\Unidad 3\E3-1Mejorando la Clase\obj\Debug\E3-1Mejorando la Clase.pdb
+C:\Users\Your fucking mom\Downloads\E3-1Mejorando la Clase\E3-1Mejorando la Clase\bin\Debug\E3-1Mejorando la Clase.exe.config
+C:\Users\Your fucking mom\Downloads\E3-1Mejorando la Clase\E3-1Mejorando la Clase\bin\Debug\E3-1Mejorando la Clase.exe
+C:\Users\Your fucking mom\Downloads\E3-1Mejorando la Clase\E3-1Mejorando la Clase\bin\Debug\E3-1Mejorando la Clase.pdb
+C:\Users\Your fucking mom\Downloads\E3-1Mejorando la Clase\E3-1Mejorando la Clase\obj\Debug\E3-1Mejorando la Clase.csprojAssemblyReference.cache
+C:\Users\Your fucking mom\Downloads\E3-1Mejorando la Clase\E3-1Mejorando la Clase\obj\Debug\E3-1Mejorando la Clase.csproj.CoreCompileInputs.cache
+C:\Users\Your fucking mom\Downloads\E3-1Mejorando la Clase\E3-1Mejorando la Clase\obj\Debug\E3-1Mejorando la Clase.exe
+C:\Users\Your fucking mom\Downloads\E3-1Mejorando la Clase\E3-1Mejorando la Clase\obj\Debug\E3-1Mejorando la Clase.pdb
