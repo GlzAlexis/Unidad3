@@ -1,0 +1,6 @@
+D:\Programas visual studio\Estructura\Unidad 3\Unidad3\EC3-1 Metodos Stack\bin\Debug\EC3-1 Metodos Stack.exe.config
+D:\Programas visual studio\Estructura\Unidad 3\Unidad3\EC3-1 Metodos Stack\bin\Debug\EC3-1 Metodos Stack.exe
+D:\Programas visual studio\Estructura\Unidad 3\Unidad3\EC3-1 Metodos Stack\bin\Debug\EC3-1 Metodos Stack.pdb
+D:\Programas visual studio\Estructura\Unidad 3\Unidad3\EC3-1 Metodos Stack\obj\Debug\EC3-1 Metodos Stack.csproj.CoreCompileInputs.cache
+D:\Programas visual studio\Estructura\Unidad 3\Unidad3\EC3-1 Metodos Stack\obj\Debug\EC3-1 Metodos Stack.exe
+D:\Programas visual studio\Estructura\Unidad 3\Unidad3\EC3-1 Metodos Stack\obj\Debug\EC3-1 Metodos Stack.pdb
