@@ -1,0 +1,11 @@
+C:\Users\Your fucking mom\Documents\programas visual\E3-2 Metodos clase queue\E3-2 Metodos clase queue\bin\Debug\netcoreapp2.1\E3-2 Metodos clase queue.deps.json
+C:\Users\Your fucking mom\Documents\programas visual\E3-2 Metodos clase queue\E3-2 Metodos clase queue\bin\Debug\netcoreapp2.1\E3-2 Metodos clase queue.runtimeconfig.json
+C:\Users\Your fucking mom\Documents\programas visual\E3-2 Metodos clase queue\E3-2 Metodos clase queue\bin\Debug\netcoreapp2.1\E3-2 Metodos clase queue.runtimeconfig.dev.json
+C:\Users\Your fucking mom\Documents\programas visual\E3-2 Metodos clase queue\E3-2 Metodos clase queue\bin\Debug\netcoreapp2.1\E3-2 Metodos clase queue.dll
+C:\Users\Your fucking mom\Documents\programas visual\E3-2 Metodos clase queue\E3-2 Metodos clase queue\bin\Debug\netcoreapp2.1\E3-2 Metodos clase queue.pdb
+C:\Users\Your fucking mom\Documents\programas visual\E3-2 Metodos clase queue\E3-2 Metodos clase queue\obj\Debug\netcoreapp2.1\E3-2 Metodos clase queue.csprojAssemblyReference.cache
+C:\Users\Your fucking mom\Documents\programas visual\E3-2 Metodos clase queue\E3-2 Metodos clase queue\obj\Debug\netcoreapp2.1\E3-2 Metodos clase queue.csproj.CoreCompileInputs.cache
+C:\Users\Your fucking mom\Documents\programas visual\E3-2 Metodos clase queue\E3-2 Metodos clase queue\obj\Debug\netcoreapp2.1\E3-2 Metodos clase queue.AssemblyInfoInputs.cache
+C:\Users\Your fucking mom\Documents\programas visual\E3-2 Metodos clase queue\E3-2 Metodos clase queue\obj\Debug\netcoreapp2.1\E3-2 Metodos clase queue.AssemblyInfo.cs
+C:\Users\Your fucking mom\Documents\programas visual\E3-2 Metodos clase queue\E3-2 Metodos clase queue\obj\Debug\netcoreapp2.1\E3-2 Metodos clase queue.dll
+C:\Users\Your fucking mom\Documents\programas visual\E3-2 Metodos clase queue\E3-2 Metodos clase queue\obj\Debug\netcoreapp2.1\E3-2 Metodos clase queue.pdb
