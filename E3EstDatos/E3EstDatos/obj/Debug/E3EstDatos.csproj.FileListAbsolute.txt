@@ -5,3 +5,10 @@ C:\Users\Your fucking mom\Documents\Trabajos\E3EstDatos\E3EstDatos\bin\Debug\E3E
 C:\Users\Your fucking mom\Documents\Trabajos\E3EstDatos\E3EstDatos\bin\Debug\E3EstDatos.pdb
 C:\Users\Your fucking mom\Documents\Trabajos\E3EstDatos\E3EstDatos\obj\Debug\E3EstDatos.exe
 C:\Users\Your fucking mom\Documents\Trabajos\E3EstDatos\E3EstDatos\obj\Debug\E3EstDatos.pdb
+C:\Users\Your fucking mom\Documents\GitHub\Unidad3\E3EstDatos\E3EstDatos\bin\Debug\E3EstDatos.exe.config
+C:\Users\Your fucking mom\Documents\GitHub\Unidad3\E3EstDatos\E3EstDatos\bin\Debug\E3EstDatos.exe
+C:\Users\Your fucking mom\Documents\GitHub\Unidad3\E3EstDatos\E3EstDatos\bin\Debug\E3EstDatos.pdb
+C:\Users\Your fucking mom\Documents\GitHub\Unidad3\E3EstDatos\E3EstDatos\obj\Debug\E3EstDatos.csprojAssemblyReference.cache
+C:\Users\Your fucking mom\Documents\GitHub\Unidad3\E3EstDatos\E3EstDatos\obj\Debug\E3EstDatos.csproj.CoreCompileInputs.cache
+C:\Users\Your fucking mom\Documents\GitHub\Unidad3\E3EstDatos\E3EstDatos\obj\Debug\E3EstDatos.exe
+C:\Users\Your fucking mom\Documents\GitHub\Unidad3\E3EstDatos\E3EstDatos\obj\Debug\E3EstDatos.pdb

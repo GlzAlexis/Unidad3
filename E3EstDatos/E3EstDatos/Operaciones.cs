@@ -56,6 +56,55 @@ namespace E3EstDatos
 
         public void Ejercicio2()
         {
+            Console.Write("Cuantas palabras ingresará: ");
+            int cantidad = Convert.ToInt32(Console.ReadLine());
+
+            List<string> valoresPalabra = new List<string>();
+            LinkedList<string> reservadas = new LinkedList<string>();
+            LinkedList<string> IdentificadoresLiterales = new LinkedList<string>();
+
+            for (int contador = 0; contador < cantidad; contador++)
+            {
+                Console.WriteLine("Ingrese la palabra: "); valoresPalabra.Add(Console.ReadLine());
+            }
+
+            string[] valoresKeyWord = new string[107] {"abstract", "as", "base", "bool", "break", "byte", "case", "catch", "char", "checked","class", "const",
+                                               "continue",  "decimal", "default", "delegate", "do", "double", "else", "enum", "event", "explicit",
+                                               "extern", "false", "finally", "fixed", "float", "for", "foreach", "goto", "if", "implicit",
+                                                "in", "int", "interface", "internal", "is", "lock", "long", "namespace", "new", "null",
+                                                "object", "operator", "out", "override", "params", "private", "protected", "public", "readonly", "ref",
+                                                "return", "sbyte", "sealed", "short", "sizeof", "stackalloc", "static", "string", "struct", "switch",
+                                                "this", "throw", "true", "try", "typeof", "uint", "ulong", "unchecked", "unsafe", "ushort",
+                                                "using", "using", "static", "virtual", "void", "volatile", "while", "add", "alias", "ascending", "async",
+                                                "await", "by", "descending", "dynamic", "equals", "from", "get", "global", "groupo", "into", "join", "let",
+                                                "nameof", "on", "orderby", "partial", "remove", "select", "set", "value", "var", "when", "where", "yield"};
+            List<string> palabras = new List<string>();
+            foreach (var item in valoresKeyWord)
+            {
+                palabras.Add(item);
+            }
+
+            Console.WriteLine("\nEstas palabras son clave: ");
+            foreach (var item in valoresPalabra)
+            {
+                IdentificadoresLiterales.AddLast(item);
+                foreach (var item2 in valoresKeyWord)
+                {
+                    if (item == item2)
+                    {
+                        Console.WriteLine(item2);
+                        IdentificadoresLiterales.Remove(item);
+                        reservadas.AddLast(item2);
+                    }
+                }
+            }
+
+            Console.WriteLine("\nIdentificadores y literales: ");
+            foreach (var item in IdentificadoresLiterales)
+            {
+                Console.WriteLine(item);
+            }
+            Console.ReadKey();
             //Escriba en este metodo un modulo que pueda leer  y almacenar palabras reservadas en una lista enlazada 
             //e identificadores y literales en Otra lista enlazada.
             //Cuando el programa haya terminado de leer la entrada, mostrar
