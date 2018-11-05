@@ -1,0 +1,7 @@
+C:\Users\Your fucking mom\Documents\programas visual\Torres de Hanoi\Torres de Hanoi\bin\Debug\Torres de Hanoi.exe.config
+C:\Users\Your fucking mom\Documents\programas visual\Torres de Hanoi\Torres de Hanoi\bin\Debug\Torres de Hanoi.exe
+C:\Users\Your fucking mom\Documents\programas visual\Torres de Hanoi\Torres de Hanoi\bin\Debug\Torres de Hanoi.pdb
+C:\Users\Your fucking mom\Documents\programas visual\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres de Hanoi.csprojAssemblyReference.cache
+C:\Users\Your fucking mom\Documents\programas visual\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres de Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\Your fucking mom\Documents\programas visual\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres de Hanoi.exe
+C:\Users\Your fucking mom\Documents\programas visual\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres de Hanoi.pdb

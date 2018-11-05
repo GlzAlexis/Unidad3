@@ -1,0 +1,7 @@
+C:\Users\Your fucking mom\Documents\programas visual\Lavaca\Lavaca\bin\Debug\Lavaca.exe.config
+C:\Users\Your fucking mom\Documents\programas visual\Lavaca\Lavaca\bin\Debug\Lavaca.exe
+C:\Users\Your fucking mom\Documents\programas visual\Lavaca\Lavaca\bin\Debug\Lavaca.pdb
+C:\Users\Your fucking mom\Documents\programas visual\Lavaca\Lavaca\obj\Debug\Lavaca.csprojAssemblyReference.cache
+C:\Users\Your fucking mom\Documents\programas visual\Lavaca\Lavaca\obj\Debug\Lavaca.csproj.CoreCompileInputs.cache
+C:\Users\Your fucking mom\Documents\programas visual\Lavaca\Lavaca\obj\Debug\Lavaca.exe
+C:\Users\Your fucking mom\Documents\programas visual\Lavaca\Lavaca\obj\Debug\Lavaca.pdb
